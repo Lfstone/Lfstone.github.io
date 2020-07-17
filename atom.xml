@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>Lofstone</title>
+    <updated>2020-07-17T01:38:02.552Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>个人网站</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2020, Lofstone</rights>
+    <entry>
+        <title type="html"><![CDATA[3D特技跑车 技术教授文档 及 外挂 下载地址]]></title>
+        <id>http://localhost:4000/post/3d-te-ji-pao-che-ji-zhu-jiao-shou-wen-dang-ji-wai-gua-xia-zai-di-zhi/</id>
+        <link href="http://localhost:4000/post/3d-te-ji-pao-che-ji-zhu-jiao-shou-wen-dang-ji-wai-gua-xia-zai-di-zhi/">
+        </link>
+        <updated>2020-07-17T01:13:01.000Z</updated>
+        <content type="html"><![CDATA[<p>已经发布了三篇文档和8个公开版本<br>
+此项目目前处于停更状态，有任何想法或合作意愿<br>
+请通过我的邮箱 2813931516@qq.com 联系</p>
+<p>3D特技跑车技术教授(2020-5-8)_byBBB.pdf<br>
+链接：https://lfstone.github.io/1.pdf</p>
+<p>3D特技跑车技术教授(2020-5-18)_byBBB.pdf<br>
+链接：https://lfstone.github.io/2.pdf</p>
+<p>3D特技跑车技术教授(2020-6-17)_byBBB.pdf<br>
+链接：https://lfstone.github.io/3.pdf</p>
+<p>3D特技跑车技术教授(2020-7-16)_byBBB.pdf<br>
+链接：https://lfstone.github.io/4.pdf</p>
+<p>公开版本8_坚硬车身_飞天_防炸_防刷_百人房_显字号_两档瞬移_碰撞无敌_无限重生_定位模式_切换自动手动挡_更改房间人数_切换公私房_调整聊天区发言结构.zip<br>
+链接：https://lfstone.github.io/5.zip</p>
+<p>此外，若遇到技术问题或是想进行技术交流，请加QQ群：737802901</p>
+]]></content>
+    </entry>
+</feed>
